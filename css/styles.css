@@ -3,10 +3,10 @@ body {
   color: #fff;
 }
 
-.link {
+.a {
   color: rgb(128, 0, 75);
 }
 
-.link:hover {
+.a:hover {
   color: rgb(206, 255, 71);
 }
