@@ -4,9 +4,9 @@ body {
 }
 
 .link {
-  color: teal;
+  color: rgb(128, 0, 75);
 }
 
 .link:hover {
-  color: tomato;
+  color: rgb(206, 255, 71);
 }
